@@ -1,5 +1,5 @@
 ### Hi there , Utkarsh here aka "wage-coolie"
-#### Developer and Learner
+#### Self-taught Developer and Learner
     - Open for Job Opportunites
  
 ### Connect with me on LinkedIn - - -   [<img align="center" src="https://github.com/wage-coolie/wage-coolie/blob/master/assets/6RA1Ax4__400x400.jpg?raw=true"  style="border-radius: 50%;width: 34px ;border: 2px solid black;height: 34px; align-self:bottom" />][Linkedin]
@@ -32,7 +32,7 @@
 </br>
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wage-coolie&theme=gruvbox&card_width=600)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wage-coolie&theme=gruvbox_light&card_width=700)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 
 <hr>
