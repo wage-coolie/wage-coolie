@@ -21,10 +21,17 @@
 <img align="left" alt="SQL"  width="50px" height=50px src="https://raw.githubusercontent.com/wage-coolie/wage-coolie/master/assets/image-260nw-684826648.webp" />
 <img align="left" alt="POstGRES"  width="50px" height=50px src="https://github.com/wage-coolie/wage-coolie/blob/master/assets/pgsql-logo-898CA61FF8-seeklogo.com.gif" />
 <img align="left" alt="RubyMine"  width="40px" height=40px src="https://github.com/wage-coolie/wage-coolie/blob/master/assets/rubymine-logo-ACFC28EACC-seeklogo.com.png" />
-<br>
+</br>
+</br>
+</br>
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wage-coolie&theme=gruvbox&card_width=600)](https://github.com/anuraghazra/github-readme-stats)
+</br>
+
+<hr>
+
+
 ![Utkarsh GitHub stats](https://github-readme-stats.vercel.app/api?username=wage-coolie&count_private=true&theme=gruvbox&show_icons=true)
 
 [Linkedin]: https://www.linkedin.com/in/utkarsh-dixit-b34639103/
