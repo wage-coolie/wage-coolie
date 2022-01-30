@@ -24,7 +24,7 @@
 <br/>
 <br/>
 <img align="left" alt="POstGRES"  width="50px" height=50px src="https://github.com/wage-coolie/wage-coolie/blob/master/assets/pgsql-logo-898CA61FF8-seeklogo.com.gif" />
-<img align="left" alt="RubyMine"  width="40px" height=40px style="margin-top:-200px" src="https://github.com/wage-coolie/wage-coolie/blob/master/assets/rubymine-logo-ACFC28EACC-seeklogo.com.png" />
+<img align="left" alt="RubyMine"  width="50px" height=50px style="margin-top:-200px" src="https://github.com/wage-coolie/wage-coolie/blob/master/assets/rubymine-logo-ACFC28EACC-seeklogo.com.png" />
 </br>
 </br>
 </br>
