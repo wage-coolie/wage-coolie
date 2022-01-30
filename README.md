@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img align="center" 
-src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>"
+src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=wage-coolie&theme=gruvbox"
  />
