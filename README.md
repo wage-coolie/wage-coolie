@@ -2,7 +2,7 @@
 #### Self-taught Developer and Learner
     - Open for Job Opportunites
  
-### Connect with me on LinkedIn - - -   [<img align="center" src="https://github.com/wage-coolie/wage-coolie/blob/master/assets/6RA1Ax4__400x400.jpg?raw=true"  style="border-radius: 50%;width: 34px ;border: 2px solid black;height: 34px; align-self:bottom" />][Linkedin]
+### Connect with me on LinkedIn - - -   [<img align="center" src="https://github.com/wage-coolie/wage-coolie/blob/master/assets/6RA1Ax4__400x400.jpg?raw=true"  style="border-radius: 50%;width: 34px ;border: 2px solid black;height: 34px; align-self:bottom" />][Linkedin]||[<img align="center" src="https://leetcode.com/MadaoJEET/"  style="border-radius: 50%;width: 34px ;border: 2px solid black;height: 34px; align-self:bottom" />][Leetcode]
 
 <hr>
 
@@ -37,7 +37,11 @@
 
 <hr>
 
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=MadaoJEET&theme=nord&font=milonga)
+
+<hr>
 
 ![Utkarsh GitHub stats](https://github-readme-stats.vercel.app/api?username=wage-coolie&count_private=true&theme=gruvbox&show_icons=true)
 
 [Linkedin]: https://www.linkedin.com/in/utkarsh-dixit-b34639103/
+[Leetcode]: https://leetcode.com/MadaoJEET/
