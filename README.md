@@ -2,7 +2,7 @@
 #### Self-taught Developer and Learner
     - Open for Job Opportunites
  
-### Connect with me on LinkedIn - - -   [<img align="center" src="https://github.com/wage-coolie/wage-coolie/blob/master/assets/6RA1Ax4__400x400.jpg?raw=true"  style="border-radius: 50%;width: 34px ;border: 2px solid black;height: 34px; align-self:bottom" />][Linkedin]||[<img align="center" src="https://leetcode.com/MadaoJEET/"  style="border-radius: 50%;width: 34px ;border: 2px solid black;height: 34px; align-self:bottom" />][Leetcode]
+### Connect with me on LinkedIn  - - -   [<img align="center" src="https://github.com/wage-coolie/wage-coolie/blob/master/assets/6RA1Ax4__400x400.jpg?raw=true"  style="border-radius: 50%;width: 34px ;border: 2px solid black;height: 34px; align-self:bottom" />][Linkedin]  |  [<img align="top" src="https://github.com/wage-coolie/wage-coolie/blob/master/assets/leetcode_button_icon_151892.png"  style="border-radius: 50%;width: 104px ;border: 2px solid black;height: 25px; align-self:bottom" />][Leetcode]
 
 <hr>
 
