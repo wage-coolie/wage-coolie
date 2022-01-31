@@ -37,11 +37,13 @@
 
 <hr>
 
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=MadaoJEET&theme=nord&font=milonga)
+| <a href="https://github.com/wage-coolie/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wage-coolie&count_private=true&theme=gruvbox&show_icons=true&include_all_commits=true&hide_border=true" alt="Utkarsh Github Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://leetcode.card.workers.dev/?username=MadaoJEET&theme=nord&font=milonga" /></a> |
+
+| ------------- | ------------- |
 
 <hr>
 
-![Utkarsh GitHub stats](https://github-readme-stats.vercel.app/api?username=wage-coolie&count_private=true&theme=gruvbox&show_icons=true)
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=MadaoJEET&theme=nord&font=milonga&width=300px) | ![Utkarsh GitHub stats](https://github-readme-stats.vercel.app/api?username=wage-coolie&count_private=true&theme=gruvbox&show_icons=true)
 
 [Linkedin]: https://www.linkedin.com/in/utkarsh-dixit-b34639103/
 [Leetcode]: https://leetcode.com/MadaoJEET/
