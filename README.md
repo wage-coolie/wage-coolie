@@ -32,18 +32,16 @@
 </br>
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wage-coolie&theme=gruvbox_light&card_width=700)](https://github.com/anuraghazra/github-readme-stats)
-</br>
-
-<hr>
 
 | <a href="https://github.com/wage-coolie/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wage-coolie&count_private=true&theme=gruvbox&show_icons=true&include_all_commits=true&hide_border=true" alt="Utkarsh Github Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://leetcode.card.workers.dev/?username=MadaoJEET&theme=nord&font=milonga" /></a> |
-
 | ------------- | ------------- |
 
 <hr>
+<br>
 
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=MadaoJEET&theme=nord&font=milonga&width=300px) | ![Utkarsh GitHub stats](https://github-readme-stats.vercel.app/api?username=wage-coolie&count_private=true&theme=gruvbox&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wage-coolie&layout=compact&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
+
+</br>
 
 [Linkedin]: https://www.linkedin.com/in/utkarsh-dixit-b34639103/
 [Leetcode]: https://leetcode.com/MadaoJEET/
