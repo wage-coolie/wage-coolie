@@ -1,4 +1,4 @@
-### Hi there , Utkarsh here aka "wage-coolie"
+### Hi there , Utkarsh here.
 #### Self-taught Developer and Learner
     - Open for Job Opportunites
  
