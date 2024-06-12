@@ -45,6 +45,6 @@
 
 [Linkedin]: https://www.linkedin.com/in/utkarsh-dixit-b34639103/
 [Leetcode]: https://leetcode.com/MadaoJEET/
-[NEW](blob:https://github.com/f51cfec5-09bc-4f57-a1de-70c033cb37cb)
-[Utkarsh](https://github.com/wage-coolie/wage-coolie/blob/master/assets/I%20(current).pdf)
-[Your Resume](https://raw.githubusercontent.com/wage-coolie/wage-coolie/master/I%20(current).pdf)
+
+[Utkarsh | PDF Resume]([https://github.com/wage-coolie/wage-coolie/blob/master/assets/I%20(current).pdf](https://github.com/wage-coolie/wage-coolie/blob/4371062240b7023d1805ec4f318a8cd7ece2d885/assets/I%20(current).pdf))
+
